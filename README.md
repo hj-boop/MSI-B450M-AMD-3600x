@@ -1,0 +1,2 @@
+# MSI-B450M-AMD-3600x
+Hackintosh EFI
